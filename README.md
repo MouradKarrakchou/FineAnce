@@ -3,10 +3,10 @@
 ![image](app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png)
 
 ## Authors:
-Theo Jannes
-Mourad Karrakchou
-Benoit Gaudet
-Matis Herman
+* Theo Jannes
+* Mourad Karrakchou
+* Benoit Gaudet
+* Matis Herman
 
 ## Presentation of the project
 
