@@ -8,7 +8,7 @@
 * Benoit Gaudet
 * Matis Herman
 
-## Presentation of the project
+## Project presentation
 
 * Created as a project for the HMI course Fineance is an App that helps you manage your daily food expenses.
 
